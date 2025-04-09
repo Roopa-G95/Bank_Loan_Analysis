@@ -9,7 +9,7 @@
 3. Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
 4. Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
 5. Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
-
+![Image](https://github.com/user-attachments/assets/c8c90947-3e3a-49db-abd6-bed6b7f3d3f8)
 ### DASHBOARD 1: OVERVIEW
 
 1. Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities
@@ -18,7 +18,8 @@
 4. Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
 5. Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6. Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
-![Image](https://github.com/user-attachments/assets/c8c90947-3e3a-49db-abd6-bed6b7f3d3f8)
+![image](https://github.com/user-attachments/assets/56ed3e5a-c27f-4df4-9474-f7634f4cd546)
+
 
 ### DASHBOARD 3: DETAILS
 
